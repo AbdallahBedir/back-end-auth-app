@@ -18,6 +18,9 @@
     "passport": "*",
     "passport-jwt": "*"
   },
+  "engines": {
+    "node":"7.6.0"
+  },
   "author": "Abdallah Bedir",
   "license": "ISC"
 }
